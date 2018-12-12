@@ -372,10 +372,7 @@ client.on('ready', () => { //code bot not leave room voice //Bot Is Online
     }
 }
 })
----------------------
-client.on('ready', () => { //code bot not leave room voice //Bot Is Online
-    client.channels.get("522143677217374218").join(); //by : Toxic Codes
-    });
+
 
 
 
